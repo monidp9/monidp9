@@ -13,7 +13,7 @@
 
 ---
 
-I'm a Master's Degree student in Artificial Intelligence at University of Naples "Federico II". Usually I write my academy experiences on [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey)](https://medium.com/@monidp). In my free time I'm a cinephile and a photography lover.
+I'm a Master's Graduate in Artificial Intelligence at University of Naples "Federico II". Usually I write my academy experiences on [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey)](https://medium.com/@monidp). In my free time I'm a cinephile and a photography lover.
 
 ---
 ### Languages and Tools:

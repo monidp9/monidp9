@@ -11,7 +11,7 @@
 
 ---
 
-I'm a Master's Graduate in Artificial Intelligence at University of Naples "Federico II". Usually I write my academy experiences on [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey)](https://medium.com/@monidp). In my free time I'm a cinephile and a photography lover.
+I'm a Master's Graduate in Artificial Intelligence at University of Naples "Federico II". I wrote my academy experiences on [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey)](https://medium.com/@monidp). In my free time I'm a cinephile and a photography lover. I believe in technology mixed with ethics and critical thinking. 
 
 ---
 ### Languages and Tools:
@@ -23,5 +23,5 @@ I'm a Master's Graduate in Artificial Intelligence at University of Naples "Fede
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="C++" width="40" height="40"/>
 </div>

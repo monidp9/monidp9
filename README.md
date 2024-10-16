@@ -11,7 +11,9 @@
 
 ---
 
-I'm a Master's Graduate in Artificial Intelligence at University of Naples "Federico II". I wrote my academy experiences on [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey)](https://medium.com/@monidp). In my free time I'm a cinephile and a photography lover. I believe in technology mixed with ethics and critical thinking. 
+I'm an AI Software Engineer. I wrote my academy experiences on [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey)](https://medium.com/@monidp). I'm a cinephile and xenophile. I believe in technology mixed with ethics and critical thinking. 
+
+<a href="https://monteirodelprete.com/" target="_blank" rel="noopener noreferrer">Personal website</a>
 
 ---
 ### Languages and Tools:
